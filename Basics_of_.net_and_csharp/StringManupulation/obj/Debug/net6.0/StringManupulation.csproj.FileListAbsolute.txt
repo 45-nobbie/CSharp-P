@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringManupulation\bin\Debug\net6.0\StringManupulation.exe
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringManupulation\bin\Debug\net6.0\StringManupulation.deps.json
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringManupulation\bin\Debug\net6.0\StringManupulation.runtimeconfig.json
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringManupulation\bin\Debug\net6.0\StringManupulation.dll
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringManupulation\bin\Debug\net6.0\StringManupulation.pdb
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringManupulation\obj\Debug\net6.0\StringManupulation.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringManupulation\obj\Debug\net6.0\StringManupulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringManupulation\obj\Debug\net6.0\StringManupulation.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringManupulation\obj\Debug\net6.0\StringManupulation.AssemblyInfo.cs
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringManupulation\obj\Debug\net6.0\StringManupulation.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringManupulation\obj\Debug\net6.0\StringManupulation.dll
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringManupulation\obj\Debug\net6.0\refint\StringManupulation.dll
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringManupulation\obj\Debug\net6.0\StringManupulation.pdb
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringManupulation\obj\Debug\net6.0\StringManupulation.genruntimeconfig.cache
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringManupulation\obj\Debug\net6.0\ref\StringManupulation.dll

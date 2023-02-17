@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\CSharpDSA\StringAlgo\bin\Debug\net6.0\StringAlgo.exe
+C:\Users\HP\source\repos\CSharpDSA\StringAlgo\bin\Debug\net6.0\StringAlgo.deps.json
+C:\Users\HP\source\repos\CSharpDSA\StringAlgo\bin\Debug\net6.0\StringAlgo.runtimeconfig.json
+C:\Users\HP\source\repos\CSharpDSA\StringAlgo\bin\Debug\net6.0\StringAlgo.dll
+C:\Users\HP\source\repos\CSharpDSA\StringAlgo\bin\Debug\net6.0\StringAlgo.pdb
+C:\Users\HP\source\repos\CSharpDSA\StringAlgo\obj\Debug\net6.0\StringAlgo.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CSharpDSA\StringAlgo\obj\Debug\net6.0\StringAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CSharpDSA\StringAlgo\obj\Debug\net6.0\StringAlgo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CSharpDSA\StringAlgo\obj\Debug\net6.0\StringAlgo.AssemblyInfo.cs
+C:\Users\HP\source\repos\CSharpDSA\StringAlgo\obj\Debug\net6.0\StringAlgo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CSharpDSA\StringAlgo\obj\Debug\net6.0\StringAlgo.dll
+C:\Users\HP\source\repos\CSharpDSA\StringAlgo\obj\Debug\net6.0\refint\StringAlgo.dll
+C:\Users\HP\source\repos\CSharpDSA\StringAlgo\obj\Debug\net6.0\StringAlgo.pdb
+C:\Users\HP\source\repos\CSharpDSA\StringAlgo\obj\Debug\net6.0\StringAlgo.genruntimeconfig.cache
+C:\Users\HP\source\repos\CSharpDSA\StringAlgo\obj\Debug\net6.0\ref\StringAlgo.dll

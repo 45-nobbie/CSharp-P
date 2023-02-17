@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Delegates_Events_Lambdas\Delegates_Events_Lambdas\bin\Debug\net6.0\Delegates_Events_Lambdas.exe
+C:\Users\HP\source\repos\Delegates_Events_Lambdas\Delegates_Events_Lambdas\bin\Debug\net6.0\Delegates_Events_Lambdas.deps.json
+C:\Users\HP\source\repos\Delegates_Events_Lambdas\Delegates_Events_Lambdas\bin\Debug\net6.0\Delegates_Events_Lambdas.runtimeconfig.json
+C:\Users\HP\source\repos\Delegates_Events_Lambdas\Delegates_Events_Lambdas\bin\Debug\net6.0\Delegates_Events_Lambdas.dll
+C:\Users\HP\source\repos\Delegates_Events_Lambdas\Delegates_Events_Lambdas\bin\Debug\net6.0\Delegates_Events_Lambdas.pdb
+C:\Users\HP\source\repos\Delegates_Events_Lambdas\Delegates_Events_Lambdas\obj\Debug\net6.0\Delegates_Events_Lambdas.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Delegates_Events_Lambdas\Delegates_Events_Lambdas\obj\Debug\net6.0\Delegates_Events_Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Delegates_Events_Lambdas\Delegates_Events_Lambdas\obj\Debug\net6.0\Delegates_Events_Lambdas.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Delegates_Events_Lambdas\Delegates_Events_Lambdas\obj\Debug\net6.0\Delegates_Events_Lambdas.AssemblyInfo.cs
+C:\Users\HP\source\repos\Delegates_Events_Lambdas\Delegates_Events_Lambdas\obj\Debug\net6.0\Delegates_Events_Lambdas.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Delegates_Events_Lambdas\Delegates_Events_Lambdas\obj\Debug\net6.0\Delegates_Events_Lambdas.dll
+C:\Users\HP\source\repos\Delegates_Events_Lambdas\Delegates_Events_Lambdas\obj\Debug\net6.0\refint\Delegates_Events_Lambdas.dll
+C:\Users\HP\source\repos\Delegates_Events_Lambdas\Delegates_Events_Lambdas\obj\Debug\net6.0\Delegates_Events_Lambdas.pdb
+C:\Users\HP\source\repos\Delegates_Events_Lambdas\Delegates_Events_Lambdas\obj\Debug\net6.0\Delegates_Events_Lambdas.genruntimeconfig.cache
+C:\Users\HP\source\repos\Delegates_Events_Lambdas\Delegates_Events_Lambdas\obj\Debug\net6.0\ref\Delegates_Events_Lambdas.dll

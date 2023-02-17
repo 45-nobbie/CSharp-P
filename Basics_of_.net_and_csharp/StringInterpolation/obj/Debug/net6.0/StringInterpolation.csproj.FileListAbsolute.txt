@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringInterpolation\bin\Debug\net6.0\StringInterpolation.exe
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringInterpolation\bin\Debug\net6.0\StringInterpolation.deps.json
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringInterpolation\bin\Debug\net6.0\StringInterpolation.runtimeconfig.json
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringInterpolation\bin\Debug\net6.0\StringInterpolation.dll
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringInterpolation\bin\Debug\net6.0\StringInterpolation.pdb
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringInterpolation\obj\Debug\net6.0\StringInterpolation.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringInterpolation\obj\Debug\net6.0\StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringInterpolation\obj\Debug\net6.0\StringInterpolation.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringInterpolation\obj\Debug\net6.0\StringInterpolation.AssemblyInfo.cs
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringInterpolation\obj\Debug\net6.0\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringInterpolation\obj\Debug\net6.0\StringInterpolation.dll
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringInterpolation\obj\Debug\net6.0\refint\StringInterpolation.dll
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringInterpolation\obj\Debug\net6.0\StringInterpolation.pdb
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringInterpolation\obj\Debug\net6.0\StringInterpolation.genruntimeconfig.cache
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\StringInterpolation\obj\Debug\net6.0\ref\StringInterpolation.dll

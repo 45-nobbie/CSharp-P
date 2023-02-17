@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\Challenge1_Days\obj\Debug\net6.0\Challenge1_Days.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\Challenge1_Days\obj\Debug\net6.0\Challenge1_Days.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\Challenge1_Days\obj\Debug\net6.0\Challenge1_Days.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\Challenge1_Days\obj\Debug\net6.0\Challenge1_Days.AssemblyInfo.cs
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\Challenge1_Days\obj\Debug\net6.0\Challenge1_Days.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\Challenge1_Days\bin\Debug\net6.0\Challenge1_Days.exe
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\Challenge1_Days\bin\Debug\net6.0\Challenge1_Days.deps.json
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\Challenge1_Days\bin\Debug\net6.0\Challenge1_Days.runtimeconfig.json
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\Challenge1_Days\bin\Debug\net6.0\Challenge1_Days.dll
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\Challenge1_Days\bin\Debug\net6.0\Challenge1_Days.pdb
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\Challenge1_Days\obj\Debug\net6.0\Challenge1_Days.dll
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\Challenge1_Days\obj\Debug\net6.0\refint\Challenge1_Days.dll
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\Challenge1_Days\obj\Debug\net6.0\Challenge1_Days.pdb
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\Challenge1_Days\obj\Debug\net6.0\Challenge1_Days.genruntimeconfig.cache
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\Challenge1_Days\obj\Debug\net6.0\ref\Challenge1_Days.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\PracticePrograms\PracticePrograms\bin\Debug\net6.0\PracticePrograms.exe
+C:\Users\HP\source\repos\PracticePrograms\PracticePrograms\bin\Debug\net6.0\PracticePrograms.deps.json
+C:\Users\HP\source\repos\PracticePrograms\PracticePrograms\bin\Debug\net6.0\PracticePrograms.runtimeconfig.json
+C:\Users\HP\source\repos\PracticePrograms\PracticePrograms\bin\Debug\net6.0\PracticePrograms.dll
+C:\Users\HP\source\repos\PracticePrograms\PracticePrograms\bin\Debug\net6.0\PracticePrograms.pdb
+C:\Users\HP\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net6.0\PracticePrograms.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net6.0\PracticePrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net6.0\PracticePrograms.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net6.0\PracticePrograms.AssemblyInfo.cs
+C:\Users\HP\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net6.0\PracticePrograms.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net6.0\PracticePrograms.dll
+C:\Users\HP\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net6.0\refint\PracticePrograms.dll
+C:\Users\HP\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net6.0\PracticePrograms.pdb
+C:\Users\HP\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net6.0\PracticePrograms.genruntimeconfig.cache
+C:\Users\HP\source\repos\PracticePrograms\PracticePrograms\obj\Debug\net6.0\ref\PracticePrograms.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\ParsingNumbers\bin\Debug\net6.0\NumbersAndDates.exe
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\ParsingNumbers\bin\Debug\net6.0\NumbersAndDates.deps.json
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\ParsingNumbers\bin\Debug\net6.0\NumbersAndDates.runtimeconfig.json
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\ParsingNumbers\bin\Debug\net6.0\NumbersAndDates.dll
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\ParsingNumbers\bin\Debug\net6.0\NumbersAndDates.pdb
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\ParsingNumbers\obj\Debug\net6.0\NumbersAndDates.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\ParsingNumbers\obj\Debug\net6.0\NumbersAndDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\ParsingNumbers\obj\Debug\net6.0\NumbersAndDates.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\ParsingNumbers\obj\Debug\net6.0\NumbersAndDates.AssemblyInfo.cs
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\ParsingNumbers\obj\Debug\net6.0\NumbersAndDates.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\ParsingNumbers\obj\Debug\net6.0\NumbersAndDates.dll
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\ParsingNumbers\obj\Debug\net6.0\refint\NumbersAndDates.dll
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\ParsingNumbers\obj\Debug\net6.0\NumbersAndDates.pdb
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\ParsingNumbers\obj\Debug\net6.0\NumbersAndDates.genruntimeconfig.cache
+C:\Users\HP\source\repos\Basics_of_.net_and_csharp\ParsingNumbers\obj\Debug\net6.0\ref\NumbersAndDates.dll
