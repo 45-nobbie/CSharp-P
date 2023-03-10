@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ojilkem48ZPteEnxKBbiY4bBSCPr9LcUvYVixosyhswV3B6dB9WCeQAhtg1CfEL0rXUEXIGTMvFFCQxhJM2wtg==",
+  "success": true,
+  "projectFilePath": "F:\\Python_DSA\\dbConnCSharp\\dbConnCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
